@@ -16,4 +16,7 @@ Simple set of scripts to toggle the LED on a Particle Photon via a Node-Red flow
 
 The sketch is based off the web-connected-led.ino provided by Particle with minor modifications to include
 the variable information for the toggle function.
+<br><br>
+![alt tag](https://github.com/rjsears/Particle-Photon-Examples/blob/master/LED-Toggle_Python/Node-Red_Photon.png?raw=true)
+
 
