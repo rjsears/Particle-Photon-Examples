@@ -1,2 +1,2 @@
-# Particle-Photon-Examples
-Examples of simple sketches and scripts to interact with the Photon
+# Particle Photon examples using Python & Node-RED
+> Examples of simple sketches and Pythin scripts and Node-RED flows to interact with the Photon
