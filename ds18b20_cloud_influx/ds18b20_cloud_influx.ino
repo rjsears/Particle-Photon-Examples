@@ -291,3 +291,4 @@ void setup_external_antenna()
     if (PUBLISH)
         Particle.publish("ANT_EXTERNAL SET", NULL, PRIVATE); // publish to cloud
 }
+
