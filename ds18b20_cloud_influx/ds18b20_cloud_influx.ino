@@ -2,7 +2,7 @@
  * Project:     ds18b20-cloud-influx.ino
  * Description: Quick sketch to read and return temperature using connected DS18B20
  *              sensors. Written for a Moteino and converted to a Photon. This sketch
- *              also (if so configured) transmits the temperature datae to an Influx
+ *              also (if so configured) transmits the temperature data to an Influx
  *              database via UDP (read InfluxDB docs to setup Influx), publishes the
  *              temperature to the Particle Console and exposes the temperature as a
  *              Patricle Variable (via the console or Python, etc). 
