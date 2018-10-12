@@ -66,6 +66,8 @@ If we are going to use UDP, set yuur server info here. This would be for
 an Influx database. Besides configuring here, you must also configure
 Influx to communicate via UDP. FOr moren information, please see here:
 https://docs.influxdata.com/influxdb/v1.6/supported_protocols/udp/
+NOTE: Be CAREFUL to set your IP using commas and not the normal
+dotted quad!
 */
 UDP Udp;
 IPAddress remoteIP(10, 200, 50, 12);
