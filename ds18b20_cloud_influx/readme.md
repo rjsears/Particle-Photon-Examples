@@ -14,13 +14,12 @@ and to an Influx database for graphing with Grafana or similar.
 # Installation
 - Copy and paste the sketch into the particle builder site and upload it to your particle
 - Connect your DS18B20 to your Particle:
-> Data wire is plugged into port D4 on the Photon
-> Ground is plugged into GND
+> Data wire is plugged into port D4 on the Photon<br>
+> Ground is plugged into GND<br>
 > Red is plugged into 3v3
 - Have Fun!
 
-<br><br>
-![alt tag](https://github.com/rjsears/Particle-Photon-Examples/blob/master/LED-Toggle_Python/Node-Red_Photon.png?raw=true)
+
 
 <br><br>
 ## Author
